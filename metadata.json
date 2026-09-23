@@ -1,0 +1,7 @@
+{
+  "name": "Viatech Capacita - Portal Corporativo y LMS",
+  "description": "Plataforma empresarial unificada de capacitación continua, gestión de cursos y acreditación con accesos para administrador y colaborador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
